@@ -13,7 +13,7 @@ import org.springframework.context.annotation.Configuration;
 @ComponentScan(basePackages = "com.pdd.*")
 @EnableAutoConfiguration
 //@SpringBootApplication
-public class Application extends SpringBootServletInitializer implements EmbeddedServletContainerCustomizer {  
+public class Application extends SpringBootServletInitializer implements EmbeddedServletContainerCustomizer {
 	
 
 	
